@@ -1,6 +1,6 @@
-# amaneq-soft
+# cirasame-soft
 
-The control software for AMANEQ firmwares. 
+The control software for CIRASAME firmwares. 
 
 ## Dependencies
 
